@@ -1,11 +1,11 @@
-# Hi, I'm Gigi Scarborough!
+# 👩🏾‍💻 Hi, I'm Gigi Scarborough!
 [https://gigiscarborough.com/](https://gigiscarborough.com/)
 
 ### 😄 Pronouns
 * She/Her/Hers
 
 ### 💬  Hi, nice to meet you!
-* I'm a full-stack engineer 👩🏾‍💻
+* I'm a full-stack engineer 
 * World Traveller
 * Dancer and choreographer
 
