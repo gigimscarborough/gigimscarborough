@@ -11,7 +11,7 @@
 
 
 ### 🔭  Currently working on
-* Protect Our Elders(http://protect-our-elders.herokuapp.com/#/) - A collaborative effort on safeguarding elders in the AAPI community by providing volunteer chaperones on their commutes.
+* [Protect Our Elders](http://protect-our-elders.herokuapp.com/#/) - A collaborative effort on safeguarding elders in the AAPI community by providing volunteer chaperones on their commutes.
 
 ### 🌱  Currently learning
 * Python
