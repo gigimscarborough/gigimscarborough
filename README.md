@@ -32,6 +32,6 @@
 ### 📫 How to reach me
 * gigimscarborough@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/gigimscarborough/) [![Linkedin: ravikiranpathade](https://img.shields.io/badge/-gigimscarborough-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravikiranpathade/)](https://www.linkedin.com/in/gigimscarborough/)
-* [Github](https://github.com/gigimscarborough)[![GitHub gigimscarborough](https://img.shields.io/github/followers/gigimscarborough?label=follow&style=social)](https://github.com/gigimscarborough)
+* [Github](https://github.com/gigimscarborough) [![GitHub gigimscarborough](https://img.shields.io/github/followers/gigimscarborough?label=follow&style=social)](https://github.com/gigimscarborough)
 
 
